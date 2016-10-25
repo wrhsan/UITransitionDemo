@@ -2,9 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:../Transition Demo/Demo2/CustomInteractiveTransition.xcodeproj">
+      location = "group:TransitionCustom.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:../Transition Demo/Demo1/TransitionCustom.xcodeproj">
+      location = "group:CustomInteractiveTransition.xcodeproj">
    </FileRef>
 </Workspace>
